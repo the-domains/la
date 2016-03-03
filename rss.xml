@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[LA]]></title>
+        <description><![CDATA[LA]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 03 Mar 2016 23:13:09 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The New York Times]]></title>
+            <description><![CDATA[<article><h1>The New York Times</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/111a7c90681db8e9aea1b6a936c2a3b974e0321b.jpg"></article>]]></description>
+            <link>http://mobile.nytimes.com/?referer=https://www.google.com/</link>
+            <guid isPermaLink="false">2acd7ec7-9aa4-427a-a8a4-85301f37859d</guid>
+            <pubDate>Thu, 03 Mar 2016 23:12:52 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
