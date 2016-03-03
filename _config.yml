@@ -1,0 +1,28 @@
+name: LA
+favicon: null
+layout_spectrum: 0.01672564330510795
+typography_spectrum: 0.6373369325883687
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9193281068000942
+  lightness: 0.03598734689876437
+  saturation: 0.7229909428860992
+  rhythmicContrast: 0.9629870033822954
+purpose: []
