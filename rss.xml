@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[LA]]></title>
         <description><![CDATA[LA]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/la/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 23:13:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 03 Mar 2016 23:13:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/la/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[2016 SAN FRANCISCO OYSTERFEST]]></title>
+            <description><![CDATA[<article><h1>2016 SAN FRANCISCO OYSTERFEST</h1><p>This event is the largest Oyster festival on the West Coast drawing over 250,000 people to date. Over half a million succulent oysters have willingly sacrificed themselves over the years. The unique combination of oysters and stout is supported by a great cast of live music.</p></article>]]></description>
+            <link>https://www.eventbrite.com/e/2016-san-francisco-oysterfest-tickets-17665498983</link>
+            <guid isPermaLink="false">a58665bf-1669-4a3f-b86a-b439f902b280</guid>
+            <pubDate>Thu, 03 Mar 2016 23:12:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The New York Times]]></title>
             <description><![CDATA[<article><h1>The New York Times</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/111a7c90681db8e9aea1b6a936c2a3b974e0321b.jpg"></article>]]></description>
